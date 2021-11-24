@@ -1,0 +1,43 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Mechanical Engineering"
+    ],
+    [
+      "Engineering",
+      "Nuclear Engineering"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Nuclear Physics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "e3c0bfc5-1611-9bce-e056-048121efd2ce"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introduction to Applied Nuclear Physics",
+  "course_description": "This class covers basic concepts of nuclear physics with emphasis on nuclear structure and interactions of radiation with matter. Topics include elementary quantum theory; nuclear forces; shell structure of the nucleus; alpha, beta and gamma radioactive decays; interactions of nuclear radiations (charged particles, gammas, and neutrons) with matter; nuclear reactions; fission and fusion.\n",
+  "department_numbers": [
+    "22"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "22.02",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Simulations"
+  ],
+  "title": "Course Metadata"
+}
